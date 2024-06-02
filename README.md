@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+
+🔭 I’m currently working on Kotlin and Swift
+🌱 I’m currently learning Jatpck Compose and Pyton
 
 <!--
 **leofazanaro/leofazanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
