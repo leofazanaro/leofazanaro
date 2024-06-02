@@ -12,7 +12,7 @@
 
 
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/leofazanaro/leofazanaro/57de476d40ffb7fcdb9768a41d1c7aebc5bbdadb/icons/android-original.svg">
-  <img align="center" alt="apple" height="30" width="40" src="https://raw.githubusercontent.com/leofazanaro/leofazanaro/57de476d40ffb7fcdb9768a41d1c7aebc5bbdadb/icons/apple-original.svg">
+  <img align="center" alt="apple" height="30" width="40" src="https://raw.githubusercontent.com/leofazanaro/leofazanaro/57de476d40ffb7fcdb9768a41d1c7aebc5bbdadb/icons/apple.svg">
 
 </div>
   
