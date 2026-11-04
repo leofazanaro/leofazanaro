@@ -31,15 +31,14 @@ Crio apps nativos em Kotlin, Java e Swift, além de ferramentas web self-hosted 
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 </p>
 
-### 🚀 Projetos em destaque
+### 🚀 Projeto em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**💳 LOF Financial**](https://github.com/leofazanaro/LOF_Financial) | Painel financeiro pessoal self-hosted: importa faturas, categoriza gastos por regras e acompanha renda e patrimônio. | Node.js · Fastify · SQLite · ECharts · Docker |
-| [**📚 Lista de Livros NYT**](https://github.com/leofazanaro/lista_de_libros_nytimes) | App Android que consome a API do New York Times para listar os livros mais vendidos. | Kotlin · Android |
-| [**🍺 Cervejeiro**](https://github.com/leofazanaro/Cervejeiro) | App para cervejeiros caseiros, com calculadora de chope. | Android |
-| [**📱 GetAppInfo**](https://github.com/leofazanaro/getAppInfo) | Classe utilitária que lê nome, versão e ícone dos apps instalados no aparelho. | Java · Android |
-| [**📝 LOF_txtLog**](https://github.com/leofazanaro/LOF_txtLog) | Biblioteca simples para gravar logs em arquivos `.txt` no Android. | Java · Android |
+<a href="https://github.com/leofazanaro/LOF_Financial">
+  <img alt="LOF Financial" src="https://github-readme-stats.vercel.app/api/pin/?username=leofazanaro&repo=LOF_Financial&hide_border=true&theme=transparent&locale=pt-br">
+</a>
+
+**💳 LOF Financial**: painel financeiro pessoal self-hosted. Importa faturas, categoriza gastos por regras e acompanha renda e patrimônio.
+`Node.js` · `Fastify` · `SQLite` · `ECharts` · `Docker`
 
 ### 📊 Estatísticas
 
