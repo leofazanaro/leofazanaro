@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Leonardo Fazanaro 👋
+# Leonardo Fazanaro
 
 **Desenvolvedor mobile · Android & iOS · criador da LOF Studio**
 
