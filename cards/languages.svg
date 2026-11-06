@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="150" viewBox="0 0 350 150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<title>Linguagens mais usadas</title>
+<rect x=".5" y=".5" width="349" height="149" rx="12" fill="none" stroke="#848d97" stroke-opacity=".35"/>
+<text x="24" y="38" font-size="17" font-weight="700" fill="#2f81f7">Linguagens mais usadas</text>
+<clipPath id="bar"><rect x="24" y="54" width="302" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.0" y="54" width="220.8" height="8" fill="#f1e05a"/><rect x="244.3" y="54" width="31.6" height="8" fill="#A97BFF"/><rect x="275.4" y="54" width="28.2" height="8" fill="#663399"/><rect x="303.1" y="54" width="18.1" height="8" fill="#e34c26"/><rect x="320.7" y="54" width="5.4" height="8" fill="#b07219"/><rect x="325.6" y="54" width="0.9" height="8" fill="#384d54"/></g>
+<circle cx="29" cy="84" r="5" fill="#f1e05a"/><text x="40" y="88" font-size="13" fill="#848d97">JavaScript <tspan font-weight="700">73,0%</tspan></text>
+<circle cx="185" cy="84" r="5" fill="#A97BFF"/><text x="196" y="88" font-size="13" fill="#848d97">Kotlin <tspan font-weight="700">10,3%</tspan></text>
+<circle cx="29" cy="106" r="5" fill="#663399"/><text x="40" y="110" font-size="13" fill="#848d97">CSS <tspan font-weight="700">9,2%</tspan></text>
+<circle cx="185" cy="106" r="5" fill="#e34c26"/><text x="196" y="110" font-size="13" fill="#848d97">HTML <tspan font-weight="700">5,8%</tspan></text>
+<circle cx="29" cy="128" r="5" fill="#b07219"/><text x="40" y="132" font-size="13" fill="#848d97">Java <tspan font-weight="700">1,6%</tspan></text>
+<circle cx="185" cy="128" r="5" fill="#384d54"/><text x="196" y="132" font-size="13" fill="#848d97">Dockerfile <tspan font-weight="700">0,1%</tspan></text>
+</svg>
