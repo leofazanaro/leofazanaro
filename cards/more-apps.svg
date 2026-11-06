@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"><title>Veja mais apps</title><rect x=".5" y=".5" width="439" height="149" rx="12" fill="none" stroke="#848d97" stroke-opacity=".35"/><svg x="24" y="24" width="72" height="72" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="mag" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="512" y2="512">
+      <stop offset="0" stop-color="#ff7a45"/>
+      <stop offset="1" stop-color="#e5376f"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#mag)"/>
+  <g fill="#fff">
+    <rect x="116" y="116" width="120" height="120" rx="32"/>
+    <rect x="276" y="116" width="120" height="120" rx="32" opacity=".8"/>
+    <rect x="116" y="276" width="120" height="120" rx="32" opacity=".8"/>
+  </g>
+  <path d="M336 296v80M296 336h80" stroke="#fff" stroke-width="30" stroke-linecap="round"/>
+</svg>
+<text x="116" y="44" font-size="19" font-weight="700" fill="#2f81f7">Veja mais apps</text><rect x="270" y="29" width="98" height="20" rx="10" fill="none" stroke="#3fb950"/><text x="319" y="43" font-size="11" font-weight="600" fill="#3fb950" text-anchor="middle">lofstudio.com</text><text x="116" y="70" font-size="13.5" fill="#848d97">Apps Android e iOS da LOF Studio e outros</text><text x="116" y="89" font-size="13.5" fill="#848d97">projetos, todos reunidos no site.</text><rect x="116" y="114" width="62" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="147" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">Android</text><rect x="184.2" y="114" width="38" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="203.2" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">iOS</text><rect x="228.39999999999998" y="114" width="56" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="256.4" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">Kotlin</text><rect x="290.59999999999997" y="114" width="49" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="315.1" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">Swift</text></svg>

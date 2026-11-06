@@ -36,11 +36,14 @@ Crio apps nativos em Kotlin, Java e Swift, além de ferramentas web self-hosted 
 <p>
   <a href="https://github.com/leofazanaro/Build-junk-cleaner"><img alt="Build Cleaner" src="cards/build-cleaner.svg" width="440"></a>
   <a href="https://github.com/leofazanaro/LOF_Financial"><img alt="LOF Financial" src="cards/lof-financial.svg" width="440"></a>
+  <a href="https://lofstudio.com"><img alt="Veja mais apps" src="cards/more-apps.svg" width="440"></a>
 </p>
 
 **🧹 [Build Cleaner](https://github.com/leofazanaro/Build-junk-cleaner)**: encontra projetos iOS, Android, Flutter, React Native e Node esquecidos no disco e libera gigabytes de `DerivedData`, `.gradle`, `build/` e `node_modules` com um clique. Roda local, sem nenhuma dependência além do Node.js.
 
 **💳 [LOF Financial](https://github.com/leofazanaro/LOF_Financial)**: painel financeiro pessoal self-hosted. Importa faturas, categoriza gastos por regras e acompanha renda e patrimônio.
+
+**📱 [Veja mais apps](https://lofstudio.com)**: os apps Android e iOS da LOF Studio e os outros projetos estão em [lofstudio.com](https://lofstudio.com).
 
 ### 📊 Estatísticas
 
