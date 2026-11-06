@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"><title>Build Cleaner</title><rect x=".5" y=".5" width="439" height="149" rx="12" fill="none" stroke="#848d97" stroke-opacity=".35"/><svg x="24" y="24" width="72" height="72" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bcg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="512" y2="512">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bcg)"/>
+  <path d="M379.5,78.8 L287.3,227.5" stroke="#ffd54a" stroke-width="30" stroke-linecap="round"/>
+  <polygon points="318.8,275.3 230.4,220.5 117.9,310.8 287.9,416.2" fill="#fff" stroke="#fff" stroke-width="12" stroke-linejoin="round"/>
+  <polygon points="329.1,251.1 247.5,200.5 230.4,220.5 318.8,275.3" fill="#ffd54a" stroke="#ffd54a" stroke-width="8" stroke-linejoin="round"/>
+  <g stroke="#6d5bd0" stroke-width="10" stroke-linecap="round" opacity=".45"><path d="M220.6,268.5 L170.5,325.7"/><path d="M250.4,287.0 L210.8,350.7"/><path d="M280.1,305.4 L251.2,375.8"/></g>
+  <g fill="#fff">
+    <path d="M136 124l11 28 28 11-28 11-11 28-11-28-28-11 28-11z"/>
+    <path d="M226 92l7 16 16 7-16 7-7 16-7-16-16-7 16-7z" opacity=".8"/>
+    <path d="M388 360l6 14 14 6-14 6-6 14-6-14-14-6 14-6z" opacity=".7"/>
+  </g>
+</svg>
+<text x="116" y="44" font-size="19" font-weight="700" fill="#2f81f7">Build Cleaner</text><rect x="271" y="29" width="95" height="20" rx="10" fill="none" stroke="#3fb950"/><text x="318.5" y="43" font-size="11" font-weight="600" fill="#3fb950" text-anchor="middle">Open source</text><text x="116" y="70" font-size="13.5" fill="#848d97">Acha projetos iOS, Android, Flutter e Node</text><text x="116" y="89" font-size="13.5" fill="#848d97">esquecidos e libera GBs de arquivos de build.</text><rect x="116" y="114" width="62" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="147" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">Node.js</text><rect x="184.2" y="114" width="108" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="238" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">0 dependências</text><rect x="298.59999999999997" y="114" width="49" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="323" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">macOS</text><rect x="353.59999999999997" y="114" width="49" height="20" rx="6" fill="#848d97" fill-opacity=".14"/><text x="378" y="128" font-size="11" fill="#848d97" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">Linux</text></svg>

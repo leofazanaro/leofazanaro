@@ -31,18 +31,20 @@ Crio apps nativos em Kotlin, Java e Swift, além de ferramentas web self-hosted 
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 </p>
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
-<a href="https://github.com/leofazanaro/LOF_Financial">
-  <img alt="LOF Financial" src="https://github-readme-stats.vercel.app/api/pin/?username=leofazanaro&repo=LOF_Financial&hide_border=true&theme=transparent&locale=pt-br">
-</a>
+<p>
+  <a href="https://github.com/leofazanaro/Build-junk-cleaner"><img alt="Build Cleaner" src="cards/build-cleaner.svg" width="440"></a>
+  <a href="https://github.com/leofazanaro/LOF_Financial"><img alt="LOF Financial" src="cards/lof-financial.svg" width="440"></a>
+</p>
 
-**💳 LOF Financial**: painel financeiro pessoal self-hosted. Importa faturas, categoriza gastos por regras e acompanha renda e patrimônio.
-`Node.js` · `Fastify` · `SQLite` · `ECharts` · `Docker`
+**🧹 [Build Cleaner](https://github.com/leofazanaro/Build-junk-cleaner)**: encontra projetos iOS, Android, Flutter, React Native e Node esquecidos no disco e libera gigabytes de `DerivedData`, `.gradle`, `build/` e `node_modules` com um clique. Roda local, sem nenhuma dependência além do Node.js.
+
+**💳 [LOF Financial](https://github.com/leofazanaro/LOF_Financial)**: painel financeiro pessoal self-hosted. Importa faturas, categoriza gastos por regras e acompanha renda e patrimônio.
 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=leofazanaro&show_icons=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofazanaro&layout=compact&hide_border=true&theme=transparent&locale=pt-br">
+  <img alt="Estatísticas do GitHub" src="cards/stats.svg">
+  <img alt="Linguagens mais usadas" src="cards/languages.svg">
 </div>
