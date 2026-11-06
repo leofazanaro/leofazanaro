@@ -4,7 +4,7 @@
 <text x="24" y="38" font-size="17" font-weight="700" fill="#2f81f7">Estatísticas do GitHub</text>
 <text x="24" y="72" font-size="13.5" fill="#848d97">Repositórios públicos</text><text x="326" y="72" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">10</text>
 <text x="24" y="96" font-size="13.5" fill="#848d97">Estrelas recebidas</text><text x="326" y="96" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">2</text>
-<text x="24" y="120" font-size="13.5" fill="#848d97">Commits (últimos 12 meses)</text><text x="326" y="120" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">5</text>
+<text x="24" y="120" font-size="13.5" fill="#848d97">Commits (últimos 12 meses)</text><text x="326" y="120" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">8</text>
 <text x="24" y="144" font-size="13.5" fill="#848d97">Pull requests (últimos 12 meses)</text><text x="326" y="144" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">0</text>
 <text x="24" y="168" font-size="13.5" fill="#848d97">Seguidores</text><text x="326" y="168" font-size="13.5" font-weight="700" fill="#848d97" text-anchor="end">4</text>
 </svg>
